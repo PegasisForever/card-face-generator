@@ -28,7 +28,8 @@ export const LOGO_LIBRARY: LogoEntry[] = [
   { file: 'jcb-black.png', label: 'JCB (black)', group: 'JCB' },
   { file: 'dinersclub-white.png', label: 'Diners Club (white)', group: 'Diners Club' },
   { file: 'dinersclub-black.png', label: 'Diners Club (black)', group: 'Diners Club' },
-  { file: 'bmo-gold.png', label: 'BMO (gold)', group: 'BMO' },
+  { file: 'bmo-gold.png', label: 'BMO (gold lockup)', group: 'BMO' },
+  { file: 'bmo-letters-gold.png', label: 'BMO (gold, letters only)', group: 'BMO' },
 ]
 
 export function logoUrl(file: string): string {

@@ -23,7 +23,9 @@ Which color to use:
   digits, and basic punctuation. Personal use only.
 
 ## Other networks
-- bmo-gold.png — BMO wordmark in gold (classic serif letterforms)
+- bmo-gold.png — full official BMO lockup in gold: serif letters + roundel
+  (M shield knocked out, card shows through)
+- bmo-letters-gold.png — letters only, same gold
 - mastercard.png (color), mastercard-white.png, mastercard-black.png
 - amex-blue.png, amex-white.png, amex-black.png
 - discover-dark.png, discover-white.png
