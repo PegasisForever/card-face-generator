@@ -23,6 +23,7 @@ Which color to use:
   digits, and basic punctuation. Personal use only.
 
 ## Other networks
+- bmo-gold.png — BMO wordmark in gold (classic serif letterforms)
 - mastercard.png (color), mastercard-white.png, mastercard-black.png
 - amex-blue.png, amex-white.png, amex-black.png
 - discover-dark.png, discover-white.png
