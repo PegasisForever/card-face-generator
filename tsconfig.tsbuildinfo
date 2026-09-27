@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/defaults.ts","./src/fonts.ts","./src/imageMap.ts","./src/imageUtils.ts","./src/logoLibrary.ts","./src/main.tsx","./src/render.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/CanvasStage.tsx","./src/components/LogoPicker.tsx","./src/components/PropertiesPanel.tsx","./src/components/Toolbar.tsx"],"version":"5.9.3"}
