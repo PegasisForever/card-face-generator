@@ -14,7 +14,8 @@ Which color to use:
 - visa-gold.png — gold Premium-VBM style wordmark, logo only, no product text
 - visa-classic.png, visa-classic-white.png — 2005 wordmark with gold notch
 - visa-debit.png — Visa Debit
-- visa-infinite-privilege.png — gold Visa Infinite Privilege lockup
+- visa-infinite-privilege-gold.png, visa-infinite-privilege-black.png —
+  Visa Infinite Privilege lockup
 - visa-brandmark.png, visa-brandmark-white.png — symbol only
 
 ## Fonts (public/fonts/)
